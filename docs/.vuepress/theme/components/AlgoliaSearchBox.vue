@@ -280,6 +280,8 @@ export default {
       border-color $colorBlack100
     .ds-cursor .algolia-docsearch-suggestion--content
       color $textColor
+  .algolia-docsearch-footer
+    display none
 
 // Light Mode
 .search-box, .algolia-search-wrapper, .algolia-autocomplete .ds-dropdown-menu [class^=ds-dataset-]
