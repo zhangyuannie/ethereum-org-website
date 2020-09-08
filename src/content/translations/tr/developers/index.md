@@ -207,7 +207,7 @@ Ethereum, geliştiricilere uygulamalarının yapım, test ve dağıtım aşamala
 
 ## Backend APIs {#backend-apis}
 
-**Rivet -** **_Ethereum and Ethereum Classic APIs as a service—powered by open source software._**
+**Rivet -** **_Ethereum and Ethereum Classic APIs as a service powered by open source software._**
 
 - [rivet.cloud](https://rivet.cloud)
 - [Documentation](https://rivet.cloud/docs/)
